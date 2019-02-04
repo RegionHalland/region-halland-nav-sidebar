@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-nav-sidebar",
+    "description": "Front-end-plugin som returnerar en parent-child-array neråt från den sida där man är",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}

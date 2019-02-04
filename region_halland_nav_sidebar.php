@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland Nav Sidebar
 	Description: Front-end-plugin som returnerar en parent-child-array neråt från den sida där man är
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: Roland Hydén
 	License: Free to use
 	Text Domain: regionhalland
